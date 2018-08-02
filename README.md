@@ -1,3 +1,6 @@
+It is for my own research purpose.
+=====
+
 ![Apache MINA SSHD](https://mina.apache.org/staticresources/images/header-sshd.png "Apache MINA SSHD")
 # Apache MINA SSHD
 
